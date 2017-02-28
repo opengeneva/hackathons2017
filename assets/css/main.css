@@ -9,6 +9,20 @@
 
 /* Reset */
 
+@font-face {
+    font-family: avenir;
+    src: url(../fonts/Avenir-Medium.ttf);
+}
+@font-face {
+    font-family: avenirlight;
+    src: url(../fonts/Avenir-Light.ttf);
+}
+@font-face {
+    font-family: phosphate;
+    src: url(../fonts/Phosphate-Inline.ttf);
+}
+
+
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -186,7 +200,13 @@
 		.container {
 			width: 95% !important;
 		}
-
+    [class*="col-"] {
+        width: 100%;
+		text-align:center;
+    }
+	#pagewrap {
+	width: 100%;
+}
 	}
 
 /* Grid */
@@ -1307,18 +1327,17 @@
 
 	}
 
-/* Basic */
+/* Basic - I eliminated 	line-height: 1.75em;*/
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg3.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'avenirlight', sans-serif;
 		font-size: 18pt;
-		line-height: 1.75em;
 		font-weight: 300;
 		letter-spacing: 1px;
 		color: #3a3939;
@@ -1343,7 +1362,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'avenirlight', sans-serif;
 		font-size: 18pt;
 		line-height: 1.75em;
 		font-weight: 300;
@@ -1390,7 +1409,6 @@
 		color: #35b88f;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
 	}
 
 		a:hover {
@@ -1909,7 +1927,7 @@
 
 		.icon:before {
 			display: inline-block;
-			font-family: FontAwesome;
+			font-family: avenir;
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;
@@ -1942,7 +1960,6 @@
 
 			#header header h1 {
 				font-weight: 600;
-				font-size: 2em;
 				letter-spacing: 10px;
 			}
 
@@ -1998,10 +2015,10 @@
 
 	#banner {
 		position: relative;
-		color: #fff;
+		color: #000;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("images/banner.svg") bottom center no-repeat;
+		background: #c1efff url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
@@ -2230,7 +2247,144 @@
 			}
 
 	}
+	
+/* Rosy */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+[class*="col-"] {
+    float: left;
+    padding: 1px;
+}
+.myrow:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.myborder{
+	padding-bottom:10px;
+	padding-top:30px;
+}
+.mybanner{
+	text-align:center;
+}
+.mysmall{
+	font-size:0.9rem;
+}
+.imgspace {
+	margin-right:10px;
+	margin-left:10px;
+}
+.op {
+	font-size:10rem;
+	line-height:normal;
+	font-family:'phosphate';
+}
+.ge {
+	font-size:6.9rem;
+	font-stretch:ultra-condensed;
+	line-height:10px;
+	font-family:'phosphate';
+}
+span.stretch {
+	font-size:3.3rem;
+	font-family:'avenirlight';
+	font-weight:600;
+	line-height:250%;
+    display:inline-block;
+    -webkit-transform:scale(1,3); /* Safari and Chrome */
+    -moz-transform:scale(1,3); /* Firefox */
+    -ms-transform:scale(1,3); /* IE 9 */
+    -o-transform:scale(1,3); /* Opera */
+    transform:scale(1,3); /* W3C */
+}
+.date {
+	font-family:'avenirlight';
+	font-size:2rem;
+	line-height:200%;
+	font-weight:500;
+}
 
+.mybox {
+	color:#000000;
+	text-align:center;
+	font-family:'avenirlight';
+	padding-left:10px;
+	padding-right:10px;
+}
+.mylogos {
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:30px;
+}
+
+
+.title {
+	text-transform: uppercase;
+	font-size:1.3rem;
+	line-height:150%;
+	padding: 20px;
+	font-weight:600;
+	
+}
+.do {
+	font-size:1rem;
+	color:#616161;
+}
+.step {
+	font-size:2rem;
+	color:#6161	
+}
+.small{
+	font-size:0.8rem;
+}
+.pink  {
+	background:#571d53;
+}
+.grey {
+	background:#B9B9B9;
+}
+.bigcol{
+	font-size:5rem;
+	font-weight:700;
+}
+.medcol{
+	font-size:2rem;
+	font-weight:700;
+	padding-top:10px;
+}
+.orange {
+		color:#c3434c;
+}
+a.orange:link {color: #c3434c; text-decoration:underline;}
+a.orange:visited {color: #c3434c; text-decoration:underline;}
+a.orange:hover {color: ##c3434c; text-decoration:underline;}
+a.orange:active {color: #c3434c; text-decoration:underline;}
+
+.violet{
+	color:#854675;
+}
+.hack{
+	background:#FFFFFF;
+	max-width:264px;
+	min-height:200px;
+	padding:10px;
+	font-size:1rem;
+	line-height:130%;
+}
+.htit{
+	font-size:2rem;
+	font-weight:600;
+}
 /* Normal */
 
 	@media screen and (max-width: 1080px) {
@@ -2252,7 +2406,7 @@
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt-3.jpg");
+				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
@@ -2332,7 +2486,7 @@
 			}
 
 			body, input, textarea, select {
-				line-height: 1.5em;
+	
 				font-size: 12pt;
 				letter-spacing: 0;
 			}
@@ -2492,6 +2646,7 @@
 			#banner {
 				padding: 3em 2em 3em 2em;
 				background-size: auto 150%;
+				font
 			}
 
 				#banner header {
