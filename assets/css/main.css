@@ -1715,16 +1715,17 @@
 		position: relative;
 		display: inline-block;
 		border: 0;
-		background: #35b88f;
+		background: #c3434c;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		cursor: pointer;
 		text-decoration: none;
 		outline: 0;
-		padding: 1em 3em 1em 3em;
+		padding: 0.5em 1em 0.5em 1em;
 		text-align: center;
 		border-radius: 3em;
 		font-weight: 400;
+		font-size:0.9rem;
 	}
 
 		input[type="button"]:hover,
@@ -1732,7 +1733,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #45c89f;
+			background: #c3434c;
 		}
 
 		input[type="button"].style2,
@@ -1740,8 +1741,8 @@
 		input[type="reset"].style2,
 		button.style2,
 		.button.style2 {
-			color: #3a3939;
-			background: #fff;
+			color: #fff;
+			background:  #c3434c;
 			box-shadow: inset 0 0 0 1px #fff;
 		}
 
@@ -1750,7 +1751,7 @@
 			input[type="reset"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				background: rgba(255, 255, 255, 0.1);
+				background:  #eb979e;
 				color: #fff !important;
 				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25) !important;
 			}
@@ -1762,7 +1763,7 @@
 		.button.style3 {
 			background: none;
 			color: #3a3939;
-			box-shadow: inset 0 0 0 1px #dad9d9;
+			box-shadow: inset 0 0 0 1px #c3434c;
 		}
 
 			input[type="button"].style3:hover,
@@ -1770,7 +1771,7 @@
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background: rgba(58, 57, 57, 0.025);
+				background:  #c3434c;
 			}
 
 /* Box */
@@ -1927,7 +1928,7 @@
 
 		.icon:before {
 			display: inline-block;
-			font-family: avenir;
+			font-family: FontAwesome;
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;
@@ -2336,6 +2337,15 @@ span.stretch {
 	font-weight:600;
 	
 }
+.question {
+	text-transform: uppercase;
+	font-size:2rem;
+	line-height:150%;
+	padding: 20px;
+	font-weight:600;
+	color:#FFFFFF;
+
+}
 .do {
 	font-size:1rem;
 	color:#616161;
@@ -2384,6 +2394,9 @@ a.orange:active {color: #c3434c; text-decoration:underline;}
 .htit{
 	font-size:2rem;
 	font-weight:600;
+}
+.center{
+	text-align:center;
 }
 /* Normal */
 
@@ -2543,9 +2556,9 @@ a.orange:active {color: #c3434c; text-decoration:underline;}
 			input[type="reset"],
 			button,
 			.button {
-				padding: 0.75em 0 0.75em 0;
+				padding: 0.35em 0 0.35em 0;
 				width: 100%;
-				max-width: 320px;
+				max-width: 220px;
 			}
 
 		/* Box */
