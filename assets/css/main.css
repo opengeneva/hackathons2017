@@ -1715,7 +1715,7 @@
 		position: relative;
 		display: inline-block;
 		border: 0;
-		background: #c3434c;
+		background: #71b6e9;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		cursor: pointer;
@@ -1733,7 +1733,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #c3434c;
+			background: #71b6e9;
 		}
 
 		input[type="button"].style2,
@@ -1742,7 +1742,7 @@
 		button.style2,
 		.button.style2 {
 			color: #fff;
-			background:  #c3434c;
+			background:  #71b6e9;
 			box-shadow: inset 0 0 0 1px #fff;
 		}
 
@@ -1751,7 +1751,7 @@
 			input[type="reset"].style2:hover,
 			button.style2:hover,
 			.button.style2:hover {
-				background:  #eb979e;
+				background:  #bcddf5;
 				color: #fff !important;
 				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25) !important;
 			}
@@ -1950,7 +1950,7 @@
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
 		margin: 0;
-		padding: 14em 0 14em 0;
+		padding: 5em 0 5em 0;
 		cursor: default;
 	}
 
@@ -2250,6 +2250,14 @@
 	}
 	
 /* Rosy */
+#mypagetitle {
+		color: #fff;
+		text-align: center;
+		margin: 0;
+		padding: 10em 0 5em 0;
+		text-shadow: 6px 6px 0px #1c1c1c;
+	}
+	
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -2310,9 +2318,9 @@ span.stretch {
 }
 .date {
 	font-family:'avenirlight';
-	font-size:2rem;
+	font-size:3rem;
 	line-height:200%;
-	font-weight:500;
+	font-weight:600;
 }
 
 .mybox {
@@ -2328,6 +2336,20 @@ span.stretch {
 	padding-bottom:30px;
 }
 
+.mymap {
+	background-image:url(../../images/map.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:500px;
+}
+.mylegenda {
+	color:#000000;
+	background-color:#ff7f00;
+	opacity:0.9;
+	padding:20px;
+	line-height:200%;
+	font-size:0.9rem;
+}
 
 .title {
 	text-transform: uppercase;
@@ -2372,17 +2394,21 @@ span.stretch {
 	font-weight:700;
 	padding-top:10px;
 }
-.orange {
-		color:#c3434c;
+.white {
+		color:#ffffff;
 }
-a.orange:link {color: #c3434c; text-decoration:underline;}
-a.orange:visited {color: #c3434c; text-decoration:underline;}
-a.orange:hover {color: ##c3434c; text-decoration:underline;}
-a.orange:active {color: #c3434c; text-decoration:underline;}
+.orange {
+		color:#71b6e9;
+}
+a.orange:link {color: #71b6e9; text-decoration:underline;}
+a.orange:visited {color: #71b6e9; text-decoration:underline;}
+a.orange:hover {color: #71b6e9; text-decoration:underline;}
+a.orange:active {color: #71b6e9; text-decoration:underline;}
 
 .violet{
 	color:#854675;
-}
+}button
+
 .hack{
 	background:#FFFFFF;
 	max-width:264px;
