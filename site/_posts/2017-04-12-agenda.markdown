@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "agenda / schedule"
+date:   2017-04-12 17:06:26 +0200
+categories: jekyll update
+---
+
+
+**Déroulement des Open Geneva Hackathons :**
+
+*  **Mardi 9 mai (17h30 - 19h) <a href="https://geneva.impacthub.net/" target="_blank">@ Impact Hub Geneva (sur invitation)</a>**
+    * Conférence de presse  : Open Geneva Hackathons & SCHK@hp
+
+<br>
+
+* **Jeudi 11 mai <a href="https://www.unige.ch/presse/plans/uni-mail-uni-pignon/" target="_blank">@ Uni Mail </a>**
+    * **12h15 - 17h45 :** <a href="http://www.unige.ch/rdvens" target="_blank" >Innover dans l'enseignement universitaire grâce aux ressources libres</a>
+    * **17h45 - 18h30 :** Lecture publique *"he Power of Open"* (en anglais)<br> par <a href="http://rufuspollock.com/about/" target="_blank">Rufus Pollock </a>,Fondateur et Président de Open Knowledge
+
+
+<br>
+
+*  **Vendredi 12 et Samedi 13 mai <a href="{% post_url 2017-04-12-hackathonmap %}">@ dans toute la Cité</a>**
+
+    * les hackathons organisés se déroulent dans toute la ville: Hôpitaux Universitaires Genève, IdeaSquqre / CERN, Campus Biotech, Centre Universitaire Informatique, Campus Battelle, Carouge, Impact Hub, etc. <a href="{% post_url 2017-04-12-hackathonmap %}">[voir carte / see map]</a>
+
+<br>
+
+
+* **Dimanche 14 mai <a href="https://www.unige.ch/presse/plans/cmu-2/" target="_blank">@ Campus Biotech </a>**
+
+    *  **Préparation des présentations (présentations orales & posters)**  
+
+        * **10h00 - 14h00 :** Atelier d'impression des posters
+
+        * **13h00 - 15h00 :** Coaching pour les presentations orales
+
+
+    *  **Présentation publique**
+
+        * **15h00 :** ouverture des portes à Campus Biotech - présentation de posters
+
+        * **16h00 à 16h20 :** The Power of Open par Rufus Pollock, Fondateur et Président de Open Knowledge (http://rufuspollock.com/about/)
+
+        * **16h30 à 17h30 :** présentations de projets (‘pitch’ de 3 minutes, 1-2 projets choisis par les organisateurs de chaque hackathon).
+
+        * **17h30 :** cocktail, posters et networking
