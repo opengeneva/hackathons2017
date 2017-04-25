@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "éditions précédentes / previous editions"
+date:   2017-04-10 15:06:26 +0200
+categories: organisation
+published: true
+---
+
+
+### [Open Geneva 2016 Campus Biotech](http://theport.ch/home/open-geneva-2016-campus-biotech/ "Open Geneva 2016 Campus Biotech")
+
+**[Eng]** Innovating global health with open data
+
+**[Fr]** Innover dans le domaine de la santé avec des données ouvertes
+
+![hackathon 2016](/images/opengeneva_2016-small.png "Open Geneva Hackathons 2016")
+
+
+### [Open Geneva 2015 - Concours Etudiants](http://www.opengeneva.ch/concours/)
+
+ Concours pendant 2 week-ends consacré à l’innovation en utilisant des données ouvertes en vue de rendre la vie à Genève encore plus agréable.
+
+![hackathon 2015](/images/opengeneva2015-small.png "Open Geneva Hackathons 2015")
