@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+<h2>Organisation</h2>
+<h3><a class="page-link" href={{ site.baseurl }}{% post_url 2017-04-12-agenda %}> Agenda / Schedule </a></h3>
+<h3><a class="page-link" href={{ site.baseurl }}{% post_url 2017-04-13-participer %}> Participer / Be Involved </a></h3>
+<h3><a class="page-link" href={{ site.baseurl }}{% post_url 2017-04-12-hackathons %}> Liste des Hackathons / List of Hackathons </a></h3>
+
+
+<br>
+<h2>News</h2>
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts reversed %}
+      <br>
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h1>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h1>
+        {{ post.excerpt }}
+      </li>
+
+    {% endfor %}
+  </ul>
+
+</div>
