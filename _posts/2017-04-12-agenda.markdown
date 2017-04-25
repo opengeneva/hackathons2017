@@ -20,9 +20,9 @@ categories: organisation
 
 <br>
 
-*  **Vendredi 12 et Samedi 13 mai <a href="{{ site.baseurl }}{% post_url 2017-04-12-hackathonmap %}">@ dans toute la Cité</a>**
+*  **Vendredi 12 et Samedi 13 mai <a href="{{ site.baseurl }}{% post_url 2017-04-12-hackathons %}">@ dans toute la Cité</a>**
 
-    * les hackathons organisés se déroulent dans toute la ville: Hôpitaux Universitaires Genève, IdeaSquqre / CERN, Campus Biotech, Centre Universitaire Informatique, Campus Battelle, Carouge, Impact Hub, etc. <a href="{{ site.baseurl }}{% post_url 2017-04-12-hackathonmap %}">[voir carte / see map]</a>
+    * les hackathons organisés se déroulent dans toute la ville: Hôpitaux Universitaires Genève, IdeaSquqre / CERN, Campus Biotech, Centre Universitaire Informatique, Campus Battelle, Carouge, Impact Hub, etc. <a href="{{ site.baseurl }}{% post_url 2017-04-12-hackathons %}">[voir carte / see map]</a>
 
 <br>
 
