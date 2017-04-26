@@ -7,11 +7,11 @@ published: true
 ---
 
 
-### [Open Geneva 2016 Campus Biotech](http://theport.ch/home/open-geneva-2016-campus-biotech/ "Open Geneva 2016 Campus Biotech")
+### [Open Geneva 2016 - Campus Biotech](http://theport.ch/home/open-geneva-2016-campus-biotech/ "Open Geneva 2016 Campus Biotech")
 
-**[Eng]** Innovating global health with open data
+**[Eng]** Innovating global health with open data.
 
-**[Fr]** Innover dans le domaine de la santé avec des données ouvertes
+**[Fr]** Innover dans le domaine de la santé avec des données ouvertes.
 
 ![hackathon 2016](/images/opengeneva_2016-small.png "Open Geneva Hackathons 2016")
 
