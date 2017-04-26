@@ -28,8 +28,8 @@ categories: organisation
 | <a href="http://wiki.opengeneva.org/index.php/OpenSexEd_-_a_collaborative_video_series" target="_blank">OpenSexEd</a>                                       | Campus Biotech Innovation Park | <a href="mailto:Celine.Brockmann@unige.ch">Celine Brockmann</a>     | 12 mai |
 | <a href="https://twitter.com/Fac_Lab" target="_blank">Digital Governance</a>                                             | Campus Battelle - Carouge    |    <a href="https://twitter.com/Fac_Lab" target="_blank">@Fac_Lab</a>        |  pas confirmé |
 | <a href="https://twitter.com/Fac_Lab" target="_blank">Blockchain Hackathon</a>                                             | Campus Battelle - Carouge      |   <a href="https://twitter.com/Fac_Lab" target="_blank">@Fac_Lab</a>        | pas confirmé |
-| <a href="http://http://citizensciences.net/biofabbing/" target="_blank">BioFabbing</a>                                             | Campus Biotech Innovation Park           | <a href="https://twitter.com/CitizenSciences" target="_blank">@CitizenSciences</a>        | 12-13 mai
-
+| <a href="http://citizensciences.net/biofabbing/" target="_blank">BioFabbing</a>                                             | Campus Biotech Innovation Park           | <a href="https://twitter.com/CitizenSciences" target="_blank">@CitizenSciences</a>        | 12-13 mai |
+| <a href="http://wiki.opengeneva.org/index.php/Accessible_Geneva!" target="_blank">Accessible Geneva !</a>                                             | Campus Biotech Innovation Park           | <a href="mailto:joseluis.fernandez@unige.ch ">  Jose Luis Fernandez</a>         | 12-13 mai |
 
 <br>
 
