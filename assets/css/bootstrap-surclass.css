@@ -1,0 +1,29 @@
+nav {
+    background-color: #dee1e2;
+    border-radius: 0 !important;
+}
+
+#banner {
+    padding: 1em;
+}
+
+#mypagetitle {
+    padding: 8em 0 5em 0;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.navbar-nav {
+    float: none;
+    display: inline-block;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #4585b5;
+}
+
+a {
+    text-decoration: none !important;
+}
