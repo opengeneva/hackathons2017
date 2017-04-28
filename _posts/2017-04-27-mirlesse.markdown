@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "une vue de HP Enterprise / a view by HP Enterprise"
+date:   2017-04-10 15:06:26 +0200
+categories: news
+published: true
+---
+
+
+![Pierre Mirlesse](/images/mirlesse.png "Testimony Mirlesse")
