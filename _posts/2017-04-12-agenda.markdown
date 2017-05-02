@@ -31,8 +31,6 @@ categories: organisation
 
     *  **Préparation des présentations (présentations orales & posters)**  
 
-        * **10h00 - 14h00 :** Atelier d'impression des posters
-
         * **13h00 - 15h00 :** Coaching pour les presentations orales
 
 

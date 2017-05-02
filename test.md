@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "hackathons | 12-14 mai 2017"
-date:   2017-04-12 14:06:26 +0200
-categories: organisation
+layout: page
+title: Open Geneva Hackathons
+permalink: /test/
 ---
+
 
 {% for hack in site.data.hackathons %}
 {% if hack.display == true %}
