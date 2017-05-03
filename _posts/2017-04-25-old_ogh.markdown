@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "éditions précédentes / previous editions"
-date:   2017-04-10 15:06:26 +0200
+date:   2017-04-25 15:06:26 +0200
 categories: organisation
 published: true
 ---

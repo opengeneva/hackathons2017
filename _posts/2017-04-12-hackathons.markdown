@@ -18,11 +18,9 @@ categories: organisation
 Date : {{ hack.date}}<br>
 Lieu : {{ hack.location}}<br>
 Adresse : {{ hack.address}}<br>
-Salle : {{ hack.room}}<br>
+{% if hack.room != '' %} Salle : {{hack.room}}<br>{% endif %}
 Contact : <a href="mailto: {{hack.contact}}"> {{hack.contact}}</a><br>
 Twitter : <a href="https://twitter.com/{{hack.twitter}}" target="_blank">{{hack.twitter}}</a>
-
-
 
 {% if hack.image != '' %}
 <img src="{{ site.baseurl }}/{{ hack.image}}" width="300" alt="" class="imgspace" />
