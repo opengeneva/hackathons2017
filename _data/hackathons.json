@@ -54,7 +54,7 @@
   "id" : "4",
   "display" : true,
   "title" : "Bioscope BioBlitz",
-  "url" : "",
+  "url" : "http://wiki.opengeneva.org/index.php/Bioscope_Bioblitz",
   "twitter" : "@CitizenSciences",
   "contact" : "Candice.Yvon@unige.ch",
   "location" : "Campus Biotech Innovation Park",
@@ -64,7 +64,7 @@
   "date" : "12-13 mai",
   "logo" : "images/partners/bioscope.png",
   "image" : "",
-  "wiki" : "",
+  "wiki" : "http://wiki.opengeneva.org/index.php/Bioscope_Bioblitz",
 },
 {
   "id" : "5",
