@@ -268,4 +268,22 @@
   "wiki" : "http://wiki.opengeneva.org/index.php/Human_Digital_Rights_%26_Responsibilities",
 },
 
+{
+  "id" : "18",
+  "display" : true,
+  "title" : "DataHack : Mais au fait, qui a mes données ?",
+  "url" : "https://jhmorin.wixsite.com/faclab-datahack",
+  "twitter" : "@podehaye",
+  "contact" : "Paulolivier@gmail.com",
+  "location" : "Centre Universitaire Informatique Campus Battelle",
+  "coordinates" : [46.176388,6.139959],
+  "room" : "Lobby",
+  "address" : "Route de Drize 7, 1227 Carouge, Switzerland",
+  "date" : "12 mai",
+  "logo" : "images/partners/cui_pant.png",
+  "image" : "images/hackathons/PersonalDataIo.jpg",
+  "wiki" : "",
+},
+
+
 ]
