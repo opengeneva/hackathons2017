@@ -10,7 +10,7 @@ categories: organisation
   <h3>
 
   {% if hack.logo != '' %}
-  <a href="{{hack.url}}" target="_blank"><img src="{{ site.baseurl }}/{{hack.logo}}" height="60" alt="" class="imgspace" /></a>
+  <a id="{{hack.id}}" href="{{hack.url}}" target="_blank"><img src="{{ site.baseurl }}/{{hack.logo}}" height="60" alt="" class="imgspace" /></a>
   {% endif %}
 <a href="{{hack.url}}" target="_blank">{{ hack.title }}</a>
 </h3>
