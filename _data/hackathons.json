@@ -53,13 +53,13 @@
 {
   "id" : "4",
   "display" : true,
-  "title" : "Bioscope BioBlitz",
+  "title" : "Bioblitz - Le numérique au service de la biodiversité? ",
   "url" : "http://wiki.opengeneva.org/index.php/Bioscope_Bioblitz",
   "twitter" : "@CitizenSciences",
   "contact" : "Candice.Yvon@unige.ch",
-  "location" : "Campus Biotech Innovation Park",
-  "coordinates" : [46.220696,6.147060],
-  "room" : "lobby",
+  "location" : "Musée de l'Histoire des Sciences",
+  "coordinates" : [46.220836,6.152033],
+  "room" : "sur le perron",
   "address" : "Avenue de Sécheron 15, 1202 Genève",
   "date" : "12-13 mai",
   "logo" : "images/partners/bioscope.png",
@@ -285,5 +285,40 @@
   "wiki" : "",
 },
 
+
+{
+  "id" : "19",
+  "display" : true,
+  "title" : "BrainSqueeze: Embedding the SDGs into humanitarian practice",
+  "url" : "http://wiki.opengeneva.org/index.php/BrainSqueeze:_Embedding_the_SDGs_into_humanitarian_practice",
+  "twitter" : "@humanitarianlab",
+  "contact" : " adriana@globalhumanitarianlab.org",
+  "location" : "Campus Biotech Innnovation Park",
+  "coordinates" : [46.220696,6.147060],
+  "room" : "Maker Space",
+  "address" : "Avenue de Sécheron 15, 1202 Genève",
+  "date" : "13 mai",
+  "logo" : "images/partners/ghl.png",
+  "image" : "images/hackathons/brainsqueeze.jpg",
+  "wiki" : "http://wiki.opengeneva.org/index.php/BrainSqueeze:_Embedding_the_SDGs_into_humanitarian_practice",
+},
+
+
+{
+  "id" : "20",
+  "display" : true,
+  "title" : "Hospice Général SocialUp After Hack",
+  "url" : "http://wiki.opengeneva.org/index.php/Hospice_G%C3%A9n%C3%A9ral,_SocialUp_After_Hack",
+  "twitter" : "#hospicegeneral",
+  "contact" : "cecile.catalano@hospicegeneral.ch",
+  "location" : "Hospice Général",
+  "coordinates" : [46.220696,6.147060],
+  "room" : "tbd",
+  "address" : "Cours de Rive 12, 1211 Genève",
+  "date" : "13 mai",
+  "logo" : "images/partners/hospicegeneral.png",
+  "image" : "",
+  "wiki" : "http://wiki.opengeneva.org/index.php/Hospice_G%C3%A9n%C3%A9ral,_SocialUp_After_Hack",
+},
 
 ]
