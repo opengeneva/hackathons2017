@@ -307,18 +307,21 @@
 {
   "id" : "20",
   "display" : true,
-  "title" : "Hospice Général SocialUp After Hack",
-  "url" : "http://wiki.opengeneva.org/index.php/Hospice_G%C3%A9n%C3%A9ral,_SocialUp_After_Hack",
+  "title" : "SocialUp After hack",
+  "url" : "http://www.socialup.ch",
   "twitter" : "#hospicegeneral",
   "contact" : "cecile.catalano@hospicegeneral.ch",
   "location" : "Hospice Général",
   "coordinates" : [46.220696,6.147060],
-  "room" : "tbd",
-  "address" : "Cours de Rive 12, 1211 Genève",
-  "date" : "13 mai",
+  "room" : "4ème étage (téléphone 078 624 22 38 / pas de code à l’entrée)",
+  "address" : "Cours de Rive 12, 1204 Genève",
+  "date" : "13 mai, 9h30 – 18h00",
   "logo" : "images/partners/hospicegeneral.png",
-  "image" : "",
+  "image" : "images/hackathons/SocialUp.jpg",
   "wiki" : "http://wiki.opengeneva.org/index.php/Hospice_G%C3%A9n%C3%A9ral,_SocialUp_After_Hack",
 },
+
+
+
 
 ]
