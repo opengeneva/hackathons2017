@@ -309,19 +309,34 @@
   "display" : true,
   "title" : "SocialUp After hack",
   "url" : "http://www.socialup.ch",
-  "twitter" : "#hospicegeneral",
+  "twitter" : "@SocialupGeneve",
   "contact" : "cecile.catalano@hospicegeneral.ch",
   "location" : "Hospice Général",
   "coordinates" : [46.220696,6.147060],
   "room" : "4ème étage (téléphone 078 624 22 38 / pas de code à l’entrée)",
   "address" : "Cours de Rive 12, 1204 Genève",
-  "date" : "13 mai, 9h30 – 18h00",
+  "date" : "Samedi 13 mai, 9h30 – 18h00",
   "logo" : "images/partners/hospicegeneral.png",
   "image" : "images/hackathons/SocialUp.jpg",
   "wiki" : "http://wiki.opengeneva.org/index.php/Hospice_G%C3%A9n%C3%A9ral,_SocialUp_After_Hack",
 },
 
-
+{
+  "id" : "21",
+  "display" : true,
+  "title" : "Smart Campus",
+  "url" : "http://wiki.opengeneva.org/index.php/Smart_Campus_Hackathon",
+  "twitter" : "#smartcampus",
+  "contact" : "Vincenzo.Daponte@unige.ch",
+  "location" : "Centre Universitaire Informatique Campus Battelle",
+  "coordinates" : [46.176388,6.139959],
+  "room" : "lobby",
+  "address" : "Route de Drize 7, 1227 Carouge, Switzerland",
+  "date" : "Samedi 13 mai, 8h30 – 18h00",
+  "logo" : "images/partners/cui_pant.png",
+  "image" : "",
+  "wiki" : "http://wiki.opengeneva.org/index.php/Smart_Campus_Hackathon",
+},
 
 
 ]
