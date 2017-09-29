@@ -17,8 +17,8 @@
 title: Open Geneva Hackathons
 email: hello@opengeneva.org
 description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://opengeneva.github.io/hackathons2017" # the base hostname & protocol for your site
+baseurl: "/hackathons2017" # the subpath of your site, e.g. /blog
+url: "https://opengeneva.github.io" # the base hostname & protocol for your site
 twitter_username: opengeneva
 github_username:  opengeneva
 port : 4001
