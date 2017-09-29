@@ -7,4 +7,4 @@ published: true
 ---
 
 
-![Pierre Mirlesse](/images/mirlesse.png "Testimony Mirlesse")
+![Pierre Mirlesse]({{ site.baseurl }}/images/mirlesse.png "Testimony Mirlesse")
